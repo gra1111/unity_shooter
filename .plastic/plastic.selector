@@ -1,0 +1,4 @@
+repository "Proyecto_Paradigmas_JGI/Proyecto_Paradigmas_JGI@20066420252722@cloud"
+  path "/"
+    br "/main"
+    co "/main"
