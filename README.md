@@ -1,15 +1,17 @@
 # Unity Shooter
 
-Proyecto de shooter en primera persona desarrollado en Unity.
+A fast-paced first-person shooter (FPS) project developed in Unity.
 
-## Controles
-- WASD: Movimiento
-- Ratón: Mirar
-- Click izquierdo: Disparar
-- Shift: Correr
-- ESC: Pausa
-- R: recargar
-- G: lanzar granadas
+## Controls
+- **WASD**: Movement
+- **Mouse**: Look around
+- **Left Click**: Shoot
+- **Shift**: Sprint
+- **ESC**: Pause
+- **R**: Reload
+- **G**: Throw grenades
 
-## Objetivo
-Sobrevive el mayor tiempo posible derrotando dsitintos enemigos con distintas mecanicas y ataques cada uno.
+## Objective
+Survive for as long as possible by defeating various enemies, each featuring unique combat mechanics and attack patterns.
+
+
